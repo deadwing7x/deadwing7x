@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Sarkar</h1>
-<h3 align="center">A full-stack developer based out of Mumbai, IN. I am currently focused on full-stack development using ASP.NET with C# and React with TypeScript.</h3>
+<h3 align="center">I am a full-stack developer based out of Mumbai, IN. I am currently focused on full-stack development using ASP.NET with C# and React with TypeScript.</h3>
 
 - 🌱 I’m currently learning **React**
 
