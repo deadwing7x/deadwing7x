@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav Sarkar</h1>
 <h3 align="center">I am a full-stack developer based out of Mumbai, IN. I am currently focused on full-stack development using ASP.NET with C# and React with TypeScript.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Node JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deadwing7x&show_icons=true&locale=en&layout=compact" alt="deadwing7x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deadwing7x&show_icons=true&theme=tokyonight&locale=en" alt="deadwing7x" /></p>
+<p style="margin-top: 1rem">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deadwing7x&show_icons=true&theme=tokyonight&locale=en" alt="deadwing7x" /></p>
