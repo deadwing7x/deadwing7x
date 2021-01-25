@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Pet Wiki](https://github.com/deadwing7x/pet-wiki)
 
-- 📫 How to reach me **anubhavsarkar7@gmail.com**
+- 📫 Reach out to me at: **anubhavsarkar7@gmail.com**
 
 ## Connect with me:
 
