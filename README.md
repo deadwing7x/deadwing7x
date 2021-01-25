@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Node JS.**
 
+- 🔭 I’m currently working on [Pet Wiki](https://github.com/deadwing7x/pet-wiki)
+
+- 📫 How to reach me **anubhavsarkar7@gmail.com**
+
 ## Connect with me:
 
 <a href="https://dev.to/deadwing7x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="deadwing7x" height="30" width="40" /></a>
