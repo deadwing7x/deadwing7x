@@ -1,9 +1,9 @@
 # Hi 👋, I'm Anubhav Sarkar
-### I am a full-stack developer based out of Mumbai, IN. I am currently focused on full-stack development using .NET with C# and React with TypeScript.
+### I am a full-stack developer based out of Mumbai, IN. I am currently focused on full-stack development using .NET with C# as well as Node JS and Express with JavaScript and React with TypeScript.
 
 <br />
 
-- 🌱 I’m currently learning **Node JS.**
+- 🌱 I’m currently learning **Node JS** and serverless backends like **AWS Lambda.**
 
 - 🔭 I’m currently working on [Pet Wiki](https://github.com/deadwing7x/pet-wiki)
 
