@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Node JS** and serverless backends like **AWS Lambda.**
 
-- 🔭 I’m currently working on [Pet Wiki](https://github.com/deadwing7x/pet-wiki)
-
 - 📫 Reach out to me at: **anubhavsarkar7@gmail.com**
 
 ## Connect with me:
