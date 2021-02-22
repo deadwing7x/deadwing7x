@@ -3,9 +3,11 @@
 
 <br />
 
-- 🌱 I’m currently learning **Node JS** and serverless backends like **AWS Lambda.**
+- 🌱 I’m currently learning serverless backends like **AWS Lambda.**
 
 - 📫 Reach out to me at: **anubhavsarkar7@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://anubhav7x.com](https://anubhav7x.com)
 
 ## Connect with me:
 
