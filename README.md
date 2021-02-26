@@ -13,7 +13,7 @@
 
 <a href="https://dev.to/deadwing7x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="deadwing7x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anubhav-sarkar-52965786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anubhav-sarkar-52965786" height="30" width="40" /></a>
-</p>
+<a href="https://anubhav7x.hashnode.dev/" target="blank"><img align="center" src="https://api.iconify.design/simple-icons:hashnode.svg" alt="anubhav-sarkar-52965786" height="30" width="40" /></a>
 
 <br />
 
