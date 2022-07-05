@@ -1,5 +1,5 @@
 # Hi 👋, I'm Anubhav Sarkar
-### I am a full-stack developer based out of Mumbai, IN. I am currently focused on full-stack development using .NET with C# as well as Node JS and Express with JavaScript and React with TypeScript.
+### I am a full-stack developer based out of New Delhi, IN. I am currently focused on full-stack development using .NET with C# as well as Node JS and Express with JavaScript and React with TypeScript.
 
 <br />
 
